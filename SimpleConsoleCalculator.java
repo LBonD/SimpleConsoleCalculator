@@ -1,7 +1,5 @@
 package GB;
 
-import jdk.dynalink.Operation;
-
 import java.util.Scanner;
 
 public class SimpleConsoleCalculator {
